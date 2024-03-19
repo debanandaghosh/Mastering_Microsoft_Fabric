@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Mastering Microsoft Fabric*](https://www.link.springer.com/book/10.1007/979-8-8688-0130-3) by Debananda Ghosh (Apress, 2024).
+This repository accompanies [*Mastering Microsoft Fabric*](https://www.link.springer.com/book/10.1007/979-8-8688-0130-0) by Debananda Ghosh (Apress, 2024).
 
 [comment]: #cover
 ![Cover image](9798868801303.jpg)
